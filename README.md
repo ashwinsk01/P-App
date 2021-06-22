@@ -1,4 +1,4 @@
-![alt text](https://github.com/ashwinsk01/P-App/blob/main/image.png?raw=true)
+![alt text](https://github.com/ashwinsk01/P-App/blob/main/image.png)
 # P-App
 Image Geo-Location finder without metadata.
 
