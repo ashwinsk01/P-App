@@ -5,13 +5,13 @@ This project aims to explore the limits of Computer Vision by calculating the ne
 
 ## Roadmap
 
-''' 
+```
 - [x] Alpha test with 13 locations across Europe 
 - [ ] Increase training batch size
 - [ ] Optimize and improve image classifier
 - [ ] Visually mapping the coordinates
 - [ ] Creating a Web App/Mobile App
 
-'''
+```
 
 
